@@ -1,9 +1,12 @@
-# Java API Products 🛒
-API simples em Spring Boot para listar produtos.
+# Java API Products 🛒  
+API simples em **Java Spring Boot** para listar produtos.  
+Focada em backend, ideal para portfólio.
 
-## Como rodar
-```
+## 🚀 Tecnologias
+- Java 17+
+- Spring Boot
+- Maven
+
+## ▶️ Como rodar
+```bash
 mvn spring-boot:run
-```
-
-Endpoint: **GET /products**
